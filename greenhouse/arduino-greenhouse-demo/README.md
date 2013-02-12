@@ -1,0 +1,3 @@
+The code we use for providing the "Arduino Modbus simulator" is unfortunately not hosted at the Eclipse Foundation, and is available under the terms of GPLv3.
+
+It is based on https://code.google.com/p/simple-modbus/ ; and the Arduino sketch you should put on your device is available there: https://github.com/kartben/mihini-greenhouse-demo/tree/master/SimpleModbusSlaveExample (it is a slightly tweaked version of the original example provided with simple-modbus)

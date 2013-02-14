@@ -9,6 +9,8 @@ You'll find here the source code of all the projects used in this demo:
 
 http://www.youtube.com/watch?v=Ao6ioP7s9_8
 
+greenhouse-demo-board.eps is the vector file you can use for getting a nice laser cut board for installing your Raspberry Pi and your Arduino!
+
 ## Arduino application ##
 
 This Arduino sketch is very basic, and its single purpose is making available the I/Os of the Arduino over Modbus serial.
